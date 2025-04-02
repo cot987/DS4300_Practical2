@@ -1,0 +1,9 @@
+ollama
+redis
+numpy
+sentence-transformers
+PyMuPDF
+memory-profiler
+chromadb
+faiss
+
